@@ -2,7 +2,7 @@
 
 Welcome to the YD LIGHT Theme – a meticulously designed extension for Visual Studio Code that elevates your coding environment to new heights of clarity, style, and comfort. Crafted with precision and care, this theme brings a refreshing and modern aesthetic to your coding workspace, enhancing both readability and visual appeal.
 
-![image](https://github.com/YD/YD-LIGHT-Theme/assets/63395997/4fe70684-a390-4354-8af8-e7ec852d8594)
+![image](./themes/image.jpg)
 
 
 ## Features:
