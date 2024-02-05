@@ -3,6 +3,7 @@
   "displayName": "YD LIGHT Theme",
   "description": "Introducing the \"YD LIGHT Theme\" extension for Visual Studio Code - a sleek and modern theme designed to illuminate your coding experience. Immerse yourself in a clean and vibrant environment that enhances readability and reduces eye strain. Ydrgzm LIGHT Theme combines a refreshing color palette with carefully crafted syntax highlighting to bring clarity to your code. Whether you're a seasoned developer or just starting, this extension offers a visually pleasing and comfortable atmosphere for coding sessions, making your time in Visual Studio Code both enjoyable and productive. Elevate your coding aesthetics with the Ydrgzm LIGHT Theme and let your code shine brightly.",
   "publisher": "ydrgzm",
+  "icon":"themes/YD.png",
   "keywords": [
     "Theme",
     "Light Theme",
@@ -10,7 +11,7 @@
     "Editor Theme",
     "YD"
   ],
-  "version": "0.0.1",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/ydrgzm/Ydrgzm-LIGHT-Theme"

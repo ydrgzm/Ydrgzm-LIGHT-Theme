@@ -4,7 +4,6 @@ Welcome to the YD LIGHT Theme – a meticulously designed extension for Visual S
 
 ![image](./themes/image.jpg)
 
-
 ## Features:
 
 ### 1. **Sleek and Modern Design:**
